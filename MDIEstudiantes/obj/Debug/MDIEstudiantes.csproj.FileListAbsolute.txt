@@ -1,0 +1,15 @@
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Properties.Resources.resources
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.GenerateResource.cache
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe.config
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.pdb
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\bin\Debug\System.Windows.Forms.DataVisualization.resources.dll
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstud.7AE29928.Up2Date
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.pdb
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe.config
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form2.resources
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form3.resources
+C:\Users\Hp Omen\source\repos\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form4.resources
